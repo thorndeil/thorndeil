@@ -8,8 +8,9 @@
   - Network Politics
 - 🌱 I’m currently learning ...
   - for my master's degree in applied IT Security at the University of Bochum
-    - Cryptographie
-    - Internet Security Protocols
+    - 1. Semester:
+      - Cryptographie
+      - Internet Security Protocols
   - OT Security
 - 👨🏻‍💻 I specialize in ...
   - ISO 27001 implementation
