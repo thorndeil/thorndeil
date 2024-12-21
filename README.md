@@ -6,9 +6,11 @@
     - Awareness Trainings & Live Hacking
     - Network and Web Penetration Testing
   - Network Politics
+- 🔭 I'm currently working on ...
+  - Looking for a project ...
 - 🌱 I’m currently learning ...
   - for my master's degree in applied IT Security at the University of Bochum
-    - 1. Semester:
+    - First Semester:
       - Cryptographie
       - Internet Security Protocols
   - OT Security
